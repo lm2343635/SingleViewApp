@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+#Xcode
+xcuserdata/
+*.moved-aside
+*.xcuserstate
+
+# Pod
+*.xcworkspace/
+Podfile.lock
+Pods/
+
