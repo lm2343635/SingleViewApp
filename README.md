@@ -1,4 +1,5 @@
-# SingleViewApp
+# SingleViewApp ![Swift 4.2](https://img.shields.io/badge/Swift-4.2-orange.svg)
+
 Xcode helps us to create a single view application with AppDelegate and storyboard. 
 For this reason, many developers does not know the basic app luanching flow. 
 This demo intrduces how to create an iOS single view application demo created by code, which can help us to understand the app luanching.
